@@ -1,0 +1,10 @@
+.nav-cl a:hover {
+  color:  #0d6efd;
+}
+
+.nav-cl a {
+  color: #fff;
+}
+.nav-cl .active-link a {
+  color: #0d6efd;
+}
